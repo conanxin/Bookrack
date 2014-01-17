@@ -9,20 +9,20 @@ Bookrack
 
 ### [Software Learning(软件学习)](https://github.com/conanxin/Bookrack/tree/master/Software%20Learning) ###
 
-- **Unity 3D**
+- **[Unity 3D](https://github.com/conanxin/Bookrack/tree/master/Software%20Learning/Unity%203D)**
 	- Beginning 3D Game Development with Unity 4
 	- unity 4.x cookbook
 	- unity 4.x game ai programming
 
-- **Blender**
+- **[Blender](https://github.com/conanxin/Bookrack/tree/master/Software%20Learning/Blender)**
 	- Mastering Blender
 
-- **Virtools**
+- **[Virtools](https://github.com/conanxin/Bookrack/tree/master/Software%20Learning/Virtools)**
 	- Virtools三维游戏设计
 	- 三维游戏设计师宝典—Virtools开发工具篇
 	- Virtools开发之底层篇
 
-- **3ds Max**
+- **[3ds Max](https://github.com/conanxin/Bookrack/tree/master/Software%20Learning/3ds%20Max)**
 	- 中文 3ds max 精彩制作100例
 
 ---
