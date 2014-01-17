@@ -7,7 +7,7 @@ Bookrack
 
 ## 目录 ##
 
-### Software Learning(软件学习) ###
+### [Software Learning(软件学习)](https://github.com/conanxin/Bookrack/tree/master/Software%20Learning) ###
 
 - **Unity 3D**
 	- Beginning 3D Game Development with Unity 4
@@ -25,15 +25,22 @@ Bookrack
 - **3ds Max**
 	- 中文 3ds max 精彩制作100例
 
+---
+
 ### Design(设计) ###
 
 - **Drawing(绘画)**
 	- You Can Draw in 30 Days
 	- 素描的诀窍
 
-- **Management(管理)**
-	- Think Smart - Act Smart
-	- 权威与个人
+---
+
+### Management(管理) ###
+
+- Think Smart - Act Smart
+- 权威与个人
+
+---
 
 ### Programming(编程) ###
 
@@ -77,6 +84,8 @@ Bookrack
 	- 数据结构
 	- 数据结构与算法分析
 
+---
+
 ### Mechanical Engineering(机械工程) ###
 
 - **Virtual Reality**
@@ -98,5 +107,8 @@ Bookrack
 	- 实用声光及无线电遥控电路300例
 	- 无线电制作DIY手册
 
-- **Writing**
-	- Writing That Works; How to Communicate Effectively In Business
+---
+
+### Writing ###
+
+- Writing That Works; How to Communicate Effectively In Business
