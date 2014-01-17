@@ -27,15 +27,15 @@ Bookrack
 
 ---
 
-### Design(设计) ###
+### [Design(设计)](https://github.com/conanxin/Bookrack/tree/master/Design) ###
 
-- **Drawing(绘画)**
+- **[Drawing(绘画)](https://github.com/conanxin/Bookrack/tree/master/Design/Drawing)**
 	- You Can Draw in 30 Days
 	- 素描的诀窍
 
 ---
 
-### Management(管理) ###
+### [Management(管理)](https://github.com/conanxin/Bookrack/tree/master/Management) ###
 
 - Think Smart - Act Smart
 - 权威与个人
