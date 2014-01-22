@@ -32,6 +32,10 @@ Bookrack
 
 - **[3ds Max](https://github.com/conanxin/Bookrack/tree/master/Software%20Learning/3ds%20Max)**
 	- 中文 3ds max 精彩制作100例
+	- 就是要做3D游戏：3ds.Max场景篇
+
+- **[GIMP](https://github.com/conanxin/Bookrack/tree/master/Software%20Learning/GIMP)**
+	- The Artist's Guide to GIMP
 
 ---
 
