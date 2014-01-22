@@ -12,6 +12,8 @@
 	- Think Complexity
 	- Think Stats Probability and Statistics for Programmers
 	- 编程珠玑
+	- 像程序员一样思考
+	- 哥德尔 艾舍尔 巴赫：集异璧之大成
 
 - **[Computer Graphics(计算机图形学)](https://github.com/conanxin/Bookrack/tree/master/Programming/Computer%20Graphics)**
 	- OpenGL三维图形系统开发与实用技术(实用技术篇)
